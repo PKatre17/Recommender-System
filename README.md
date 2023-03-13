@@ -1,5 +1,7 @@
 # Recommendor System for H&M
 
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/97483777/224587623-80d8ce21-43d3-460d-803a-a30cb7d49efb.png">
+
 ## Objective:
      - Help customers make the right choice by making deep learning neural network model.
      - Improve sustainability, by reducing returns and wastes.
