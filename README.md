@@ -9,11 +9,9 @@
 We are helping H&M by making a deep learning neural network to recommend customers clothing and accessories on the basis of their purchase
 by answering the following business question:
 
-Which product is the most popular within customers?
-
-What is the average amount people are spending on each transaction?
-
-What were the months when people purchased the most?
+    - Which product is the most popular within customers?
+    - What is the average amount people are spending on each transaction?
+    - What were the months when people purchased the most?
 
 ## Data Description: 
 We are dividing the data in the following tables:
