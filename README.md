@@ -1,4 +1,4 @@
-# Recommendor-System for H&M
+# Recommendor System for H&M
 
 ## Objective:
      - Help customers make the right choice by making deep learning neural network model.
