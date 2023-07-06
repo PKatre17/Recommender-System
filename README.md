@@ -29,7 +29,7 @@ We are dividing the data in the following tables:
    * Age: age of the customer
    * Postal_code: postal code of each customer
    
-3. Transaction_train.csv – This gives us insight about the transactions made by customers for the products
+3. Transaction_train.csv – This gives us insight into the transactions made by customers for the products
    * T_dat: date of transaction
    * Article_id: unique id for each product
    * Customer_id: unique id for each customer
